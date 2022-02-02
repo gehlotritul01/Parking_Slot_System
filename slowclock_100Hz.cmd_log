@@ -1,0 +1,3 @@
+xst -intstyle ise -ifn "D:/xilinx/Projects/Parking_Slot_System/slowclock_100Hz.xst" -ofn "D:/xilinx/Projects/Parking_Slot_System/slowclock_100Hz.syr" 
+xst -intstyle ise -ifn "D:/xilinx/Projects/Parking_Slot_System/slowclock_100Hz.xst" -ofn "D:/xilinx/Projects/Parking_Slot_System/slowclock_100Hz.syr" 
+xst -intstyle ise -ifn "D:/xilinx/Projects/Parking_Slot_System/slowclock_100Hz.xst" -ofn "D:/xilinx/Projects/Parking_Slot_System/slowclock_100Hz.syr" 
